@@ -1,0 +1,1 @@
+button = instance_position(340,200,obj_pressureplate);

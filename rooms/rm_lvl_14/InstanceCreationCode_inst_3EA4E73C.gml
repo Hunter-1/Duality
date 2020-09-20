@@ -1,0 +1,1 @@
+button = instance_position(760,130,obj_button);

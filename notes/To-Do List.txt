@@ -1,0 +1,12 @@
+Notes:
+
+Spikes and boxes need to be added in order to give the game a sense of failure
+and to desync the movement between the two players.
+
+I'ts also very important to figure out how to make puzzles.
+
+To-Do List:
+
+Add Spikes
+Add Movable Boxes
+Learn if you can turn objects in editor
